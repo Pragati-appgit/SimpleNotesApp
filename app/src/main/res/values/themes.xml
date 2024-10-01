@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.SimpleNotesApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#545454</item>
+        <item name="android:colorPrimaryDark">#545556</item>
+        <item name="android:colorSecondary">#ffde59</item>
+    </style>
+
+    <style name="Theme.SimpleNotesApp" parent="Base.Theme.SimpleNotesApp" />
+</resources>
